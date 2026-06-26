@@ -1,0 +1,6 @@
+{
+  "name": "Velorah",
+  "description": "Where dreams rise through the silence. A cinematic digital space designed for deep thinkers, bold creators, and quiet rebels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
